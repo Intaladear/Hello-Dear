@@ -1,0 +1,15 @@
+Set-ExplorerOptions -showHidenFileFoldersDrives -showProtectedOSFiles -showFileExtensions
+Enable-RemoteDesktop
+
+cinst chocolatey
+cinst 7zip
+cinst googlechrome
+cinst firefox
+cinst notepadplusplus
+cinst foxitreader
+cinst vlc
+cinst skype
+cinst teamviewer.host
+
+cinst IIS-WebServerRole -source windowsfeatures
+
