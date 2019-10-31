@@ -1,2 +1,4 @@
 # Hello-Dear
-First step to github
+# สวัสดี-เดียร์
+First step to the github
+ก้าวแรกสู่ github
